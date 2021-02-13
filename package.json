@@ -1,0 +1,20 @@
+{
+  "name": "bubble",
+  "version": "1.0.0",
+  "description": "",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config ./webpack.config.js"
+  },
+  "author": "mtripg6666tdr",
+  "license": "MIT",
+  "dependencies": {
+    "javascript-obfuscator": "^2.10.3",
+    "ts-loader": "^8.0.17",
+    "typescript": "^4.1.5",
+    "webpack": "^5.21.2",
+    "webpack-cli": "^4.5.0",
+    "webpack-obfuscator": "^3.3.0"
+  }
+}

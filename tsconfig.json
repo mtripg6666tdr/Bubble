@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "target": "ES3",
+        "module": "CommonJS",
+        "esModuleInterop": true,
+
+        "sourceMap": true
+    },
+    "include": [
+        "./src/*.ts"
+    ]
+}
